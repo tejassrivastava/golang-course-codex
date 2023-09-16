@@ -2,6 +2,13 @@ go 1.21.1
 
 use (
 	./04time
+	./05pointers
+	./06arrays
+	./07slices
+	./08maps
+	./09structs
+	./10ifelse
+	./11functions
 	./conversion
 	./hello
 	./user_input
