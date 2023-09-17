@@ -9,6 +9,10 @@ use (
 	./09structs
 	./10ifelse
 	./11functions
+	./12defer
+	./13files
+	./14webrequest
+	./15apirequest
 	./conversion
 	./hello
 	./user_input
